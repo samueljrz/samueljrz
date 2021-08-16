@@ -21,18 +21,18 @@ I'm a Full Stack Engineer (ReactJS, NodeJS and GraphQL) and Tester (Jest and Cyp
 Main stack:
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" />
-  <img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor" />
-  <img src="https://icongr.am/devicon/typescript-original.svg?size=32&color=currentColor" />
-  <img src="https://icongr.am/devicon/react-original.svg?size=32&color=currentColor" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=32&color=currentColor" />
-  <img width="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg'>
-  <img width="32" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg'>
-  <img width="32" src='https://api.iconify.design/logos/cypress.svg?width=32&height=32'>
-  <img width="32" src='https://www.splunk.com/content/dam/splunk2/images/2020-splunk-planet.svg'>
-  <img width="32" src='https://cdn6.aptoide.com/imgs/0/7/6/076303a788705113dc6cebc4fe59a02d_icon.png'>
-  <img src="https://icongr.am/devicon/git-original.svg?size=32&color=currentColor">
+  <img src="https://icongr.am/devicon/html5-original.svg?size=48&color=currentColor" />
+  <img src="https://icongr.am/devicon/css3-original.svg?size=48&color=currentColor" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=48&color=currentColor" />
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=48&color=currentColor" />
+  <img src="https://icongr.am/devicon/react-original.svg?size=48&color=currentColor" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=48&color=currentColor" />
+  <img width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg'>
+  <img width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg'>
+  <img width="48" src='https://api.iconify.design/logos/cypress.svg?width=48&height=48'>
+  <img width="48" src='https://www.splunk.com/content/dam/splunk2/images/2020-splunk-planet.svg'>
+  <img width="48" src='https://cdn6.aptoide.com/imgs/0/7/6/076303a788705113dc6cebc4fe59a02d_icon.png'>
+  <img src="https://icongr.am/devicon/git-original.svg?size=48&color=currentColor">
 </div>
 
 ----
